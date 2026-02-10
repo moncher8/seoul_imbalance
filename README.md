@@ -3,5 +3,5 @@
 Key Question
 “쏘카”가 보유한 기업 역량과 공공 데이터를 활용해 “교통 불균형”을 해결할 수 있는 전략 도출
 
- [BA 세션 최종 보고서 (PDF)](BA세션%20최종보고_쏘세지%20카레라이스%20팀.pdf)
+[BA 세션 최종 보고서 (PDF)](BA세션%20최종보고_쏘세지%20카레라이스%20팀.pdf)
  <img width="1429" height="777" alt="Screenshot 2026-02-10 at 1 40 52 PM" src="https://github.com/user-attachments/assets/de075caa-f8a5-449c-8c16-39d08559b43e" />
